@@ -11,10 +11,9 @@ Salma and Zineb are planning to visit 5 Moroccan cities during their 1-week vaca
 Do we really need weeks of prep for just 1 week of travel? And do we need to speak foreign languages to travel in our own country ⁉️
 
 
-
 ##  Impact and Proposed Solution: 💡
 
-Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-to-use interface designed for Moroccan travelers passionate about using DARIJA while searching for the best places to visit in Morocco. 
+Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-to-use interface designed for Moroccan travelers passionate about using **DARIJA** while searching for the best places to visit in Morocco. It represents a brand-new way to help travelers find the best spots without investing too much time in preparation (time is money 💰). Not only that, it breaks down language barriers by incorporating the casual dialect **DARIJA** into the search. While built on existing solutions, Terhal combines the trio of **cost, quality, and time**, offering Moroccan travelers personalized recommendations in under 10 minutes, all in their mother tongue.
 
 ##  Project Outcomes and Deliverables:
 
@@ -23,10 +22,6 @@ Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-
 - **Personalized recommendations** to find the best places for each traveler's needs.
 - **Moroccan Dialect Support**, Terhal is tailored for Moroccan travelers and can understand and interact with over 90% accuracy in DARIJA.
 - **Simple Interfac**, The interaction with Terhal is through Terhal Bot, a beginner-friendly user interface with simple components to enhance accessibility for all users.
-
-## Why Terhal (Impact)?
-
-
 
 ##  Instructions:
 
@@ -135,6 +130,6 @@ npm install
 node proxy-server.js
  ```
 
- ## Pitch 
+ ## Pitch 🎤
 
- ## Demo
+ ## Demo 🔮
