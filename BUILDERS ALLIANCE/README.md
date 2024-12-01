@@ -21,7 +21,7 @@ Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-
 - **Time reduction** in planning, cutting trip preparation from 3 weeks to just 10 minutes.
 - **Personalized recommendations** to find the best places for each traveler's needs.
 - **Moroccan Dialect Support**, Terhal is tailored for Moroccan travelers and can understand and interact with over 90% accuracy in DARIJA.
-- **Simple Interfac**, The interaction with Terhal is through Terhal Bot, a beginner-friendly user interface with simple components to enhance accessibility for all users.
+- **Simple Interface**, The interaction with Terhal is through Terhal Bot, a beginner-friendly user interface with simple components to enhance accessibility for all users.
 
 ##  Instructions: 🛠️
 
@@ -119,3 +119,5 @@ node proxy-server.js
  ## Pitch 🎤
 
  ## Demo 🔮
+
+[View the demo here](https://drive.google.com/file/d/1JIDRnFU8lKGONttrHCC4TfDb2P7j8hXG/view?usp=sharing)
