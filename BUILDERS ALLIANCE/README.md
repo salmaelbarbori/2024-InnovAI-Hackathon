@@ -1,4 +1,4 @@
-# Terhal ✈️ 🇲🇦
+# Terhal 🗺️⁀જ✈︎ 🇲🇦
 
 <div align="center">
     <img src = "./Terhal_bot.png" alt = "terhal logo" width = "300px" height = "300px" >
