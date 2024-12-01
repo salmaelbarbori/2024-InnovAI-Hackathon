@@ -6,29 +6,32 @@
 
 ##  Instructions:
 
-The repository is organised following thislayout:
+The repository is organised following this layout:
+
+```markdown
 
 BUILDERS ALLIANCE/
 ├── code/
 │   ├── ai_api_and_deployment/
-│   │   ├── app/          # Application logic
-│   │   ├── dataset/      # Datasets used by the AI model
-│   │   ├── model/        # AI models and logic
-│   │   ├── __init__.py   # Initialization file
-│   │   ├── main.py       # FastAPI entry point
-│   │   ├── Dockerfile    # Dockerfile for containerized deployment
-│   │   ├── .env          # Environment variables
-│   │   └── requirements.txt   # Python dependencies
-│   ├── webApp/
-│       ├── chat.html     # Main frontend HTML file
-│       ├── script.js     # JavaScript logic for the frontend
-│       ├── styles.css    # Styling for the frontend
-│       ├── requirements  # Backend dependencies for the web app
-│       └── package.json  # npm dependencies
-├── requirements.txt       # Main Python dependencies
-├── .gitignore             # Ignored files and folders
-├── README.md              # Project documentation
+│   │   ├── app/
+│   │   ├── dataset/
+│   │   ├── model/
+│   │   ├── __init__.py
+│   │   ├── main.py
+│   │   ├── Dockerfile
+│   │   ├── .env
+│   │   └── requirements.txt
+│   └── webApp/
+│       ├── chat.html
+│       ├── script.js
+│       ├── styles.css
+│       ├── requirements
+│       └── package.json
+├── requirements.txt
+├── .gitignore
+└── README.md
 
+```
 
 ### Prerequisites
 
