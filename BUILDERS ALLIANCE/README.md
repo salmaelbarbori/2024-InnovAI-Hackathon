@@ -1,3 +1,7 @@
+Terhal
+
+<img src = "./Terhal_bot.png" width = 50% height = auto>
+
 ##  Background and Problem Statement:
 
 ##  Impact and Proposed Solution:
@@ -91,7 +95,7 @@ npm install
 Start the web application:
 
 ```bash
-npm start
+node proxy-server.js
 ```
 
 #### Run the Application
@@ -108,4 +112,9 @@ bash
  ```bash
  cd builders/code/webApp
 npm install
+node proxy-server.js
  ```
+
+ ## Pitch 
+
+ ## Demo
