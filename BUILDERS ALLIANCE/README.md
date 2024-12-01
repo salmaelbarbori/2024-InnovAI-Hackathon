@@ -1,6 +1,6 @@
-Terhal
+# Terhal ✈️ 🇲🇦
 
-<img src = "./Terhal_bot.png" width = 50% height = auto>
+<img src = "./Terhal_bot.png" alt = "terhal logo" width = "200px" height = "200px" >
 
 ##  Background and Problem Statement:
 
