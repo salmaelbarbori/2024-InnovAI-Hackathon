@@ -14,7 +14,9 @@ Do we really need weeks of prep for just 1 week of travel? And do we need to spe
 
 ##  Impact and Proposed Solution: 💡
 
-Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-to-use interface designed for Moroccan travelers passionate about using DARIJA while searching for the best places to visit in Morocco. Terhal offers three key benefits:
+Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-to-use interface designed for Moroccan travelers passionate about using DARIJA while searching for the best places to visit in Morocco. 
+
+##  Project Outcomes and Deliverables:
 
 - **Finding the best spots** to visit in each city in Morocco.
 - **Time reduction** in planning, cutting trip preparation from 3 weeks to just 10 minutes.
@@ -22,7 +24,9 @@ Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-
 - **Moroccan Dialect Support**, Terhal is tailored for Moroccan travelers and can understand and interact with over 90% accuracy in DARIJA.
 - **Simple Interfac**, The interaction with Terhal is through Terhal Bot, a beginner-friendly user interface with simple components to enhance accessibility for all users.
 
-##  Project Outcomes and Deliverables:
+## Why Terhal (Impact)?
+
+
 
 ##  Instructions:
 
