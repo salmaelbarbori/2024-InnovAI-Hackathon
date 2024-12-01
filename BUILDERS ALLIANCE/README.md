@@ -15,7 +15,7 @@ Do we really need weeks of prep for just 1 week of travel? And do we need to spe
 
 Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-to-use interface designed for Moroccan travelers passionate about using **DARIJA** while searching for the best places to visit in Morocco. It represents a brand-new way to help travelers find the best spots without investing too much time in preparation (time is money 💰). Not only that, it breaks down language barriers by incorporating the casual dialect **DARIJA** into the search. While built on existing solutions, Terhal combines the trio of **cost, quality, and time**, offering Moroccan travelers personalized recommendations in under 10 minutes, all in their mother tongue.
 
-##  Project Outcomes and Deliverables:
+##  Project Outcomes and Deliverables: 🎯
 
 - **Finding the best spots** to visit in each city in Morocco.
 - **Time reduction** in planning, cutting trip preparation from 3 weeks to just 10 minutes.
@@ -23,7 +23,7 @@ Terhal is a chatbot 🤖 powered by LLMs (GPT-4 and Terjman), featuring an easy-
 - **Moroccan Dialect Support**, Terhal is tailored for Moroccan travelers and can understand and interact with over 90% accuracy in DARIJA.
 - **Simple Interfac**, The interaction with Terhal is through Terhal Bot, a beginner-friendly user interface with simple components to enhance accessibility for all users.
 
-##  Instructions:
+##  Instructions: 🛠️
 
 The repository is organised following this layout:
 
@@ -56,7 +56,7 @@ BUILDERS ALLIANCE/
 
 ```
 
-### Prerequisites
+### Prerequisites ⚙️
 
 Before starting, ensure you have the following installed:
 - **Python** (3.9 or later)
@@ -113,7 +113,7 @@ Start the web application:
 node proxy-server.js
 ```
 
-#### Run the Application
+#### Run the Application 
 
 Install Python dependencies from the main requirements.txt:
 
@@ -122,11 +122,15 @@ Install Python dependencies from the main requirements.txt:
 ```
 
 Navigate to the webApp folder and install npm dependencies:
-bash
 
  ```bash
  cd builders/code/webApp
 npm install
+```
+
+Run the Application : 🔮
+
+```bash
 node proxy-server.js
  ```
 
