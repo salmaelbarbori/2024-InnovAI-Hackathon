@@ -27,6 +27,10 @@ BUILDERS ALLIANCE/
 │       ├── styles.css
 │       ├── requirements
 │       └── package.json
+|
+├── presentation.pdf
+├── demo
+├── Terhal Logo
 ├── requirements.txt
 ├── .gitignore
 └── README.md
