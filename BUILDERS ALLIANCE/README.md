@@ -95,24 +95,6 @@ uvicorn main:app --reload
 uvicorn main:app --reload
 ```
 
-#### Navigate to the **webApp** folder:
-
-```bash
-cd ../webApp
-```
-
-Install npm dependencies:
-
-```bash
-npm install
-```
-
-Start the web application:
-
-```bash
-node proxy-server.js
-```
-
 #### Run the Application 
 
 Install Python dependencies from the main requirements.txt:
@@ -124,7 +106,7 @@ Install Python dependencies from the main requirements.txt:
 Navigate to the webApp folder and install npm dependencies:
 
  ```bash
- cd builders/code/webApp
+cd builders/code/webApp
 npm install
 ```
 
