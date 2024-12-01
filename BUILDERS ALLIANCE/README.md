@@ -1,7 +1,7 @@
 # Terhal ✈️ 🇲🇦
 
 <div align="center">
-    <img src = "./Terhal_bot.png" alt = "terhal logo" width = "500px" height = "200px" >
+    <img src = "./Terhal_bot.png" alt = "terhal logo" width = "300px" height = "200px" >
 </div>
 
 ##  Background and Problem Statement:
