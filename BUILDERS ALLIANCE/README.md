@@ -6,17 +6,8 @@
 
 ##  Background and Problem Statement: 💢
 
-Salma and Zineb wishes to travel to 5 Moroccan cities during their 1 week of vacations, but the first thing to do is to **plan** their travel, yet this step requires around **x3 times of prep compared to the travel itself**. Based on their previous experiences in planning travels, they found out that **1 week of travel may need 3 weeks of research** to find:
-
-- The best places to visit in each city.
-- As well as the transportation to consider.
-- among others they find it hard to search in foreign languages while they only master DARIJA.
-
-They tried to solve this by consulting a guide but each city needs **consultation with a guide**, but they found it **x5 expensive compared to their expectations and budget** while the **provided service was general** more than personalized.
-
-This bottleneck is now preventing them as well as 100 of their fellows 😟 from taking the decision of traveling and discovering the country. This is impacting the country’s economy directly 📉 since  the **tourism sector in Morocco provide  around 7% UDP**.
-
-**Do we need to spend weeks of preparation in order to travel for one week?** and, **do we need to master foreign languages  in order to plan trips in our homeland ?** ⁉️
+Salma and Zineb are planning to visit 5 Moroccan cities during their 1-week vacation ⏳, but the real challenge is the planning process. They’ve learned that **for every week of travel**, they need **3 weeks of planing, from **finding the best spots to visit to understanding transportation options** ˚˖𓍢ִ໋🍃˚.⛰️⋆☁️. Yet, they only speak **DARIJA**, which makes it hard for themto search in foreign languages. They tried **consulting a guide**, but it was **5 times more expensive than expected** and felt too **general**. This issue is holding them back 😟, and it’s affecting Morocco’s **tourism sector** 📉, which **contributes 7% of GDP**. 
+Do we really need weeks of prep for just 1 week of travel? And do we need to speak foreign languages to travel in our own country ⁉️
 
 
 
