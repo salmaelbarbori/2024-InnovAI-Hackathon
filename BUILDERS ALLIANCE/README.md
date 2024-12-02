@@ -117,7 +117,9 @@ node proxy-server.js
  ```
 
  ## Pitch 🎤
+ 
+[Terhal Pitch](https://drive.google.com/file/d/10b7Zw1034V-roZMKNyduOkKAPS2VeWRz/view?usp=sharing)
 
  ## Demo 🔮
 
-[View the demo here](https://drive.google.com/file/d/1JIDRnFU8lKGONttrHCC4TfDb2P7j8hXG/view?usp=sharing)
+[Terhal Bot](https://drive.google.com/file/d/1JIDRnFU8lKGONttrHCC4TfDb2P7j8hXG/view?usp=sharing)
